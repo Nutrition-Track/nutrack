@@ -6,7 +6,7 @@ export default function Home() {
 
                 {/* Meals Section */}
                 <div className="self-start mt-14 ml-28 text-5xl font-bold text-slate-950 max-md:mt-10 max-md:max-w-full max-md:text-4xl">
-                    Today's Record
+                    Today&#39;s Record
                 </div>
 
                 {/* Date and Type Display */}
